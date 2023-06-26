@@ -1,0 +1,10 @@
+function SignboardClient ()
+txd = engineLoadTXD("factory_door.txd") 
+engineImportTXD(txd, 3294 )
+txd = engineLoadTXD("vgsegarage.txd") 
+engineImportTXD(txd, 8957 )
+txd = engineLoadTXD("vgwstbboard.txd") 
+engineImportTXD(txd, 7911 )
+engineImportTXD(txd, 7907 )
+end
+addEventHandler( "onClientResourceStart", resourceRoot, SignboardClient )

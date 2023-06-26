@@ -1,0 +1,22 @@
+<meta>
+    <info type="script" description="Automatically load any mod you want!" author="Remi-X" version="1.0.3" name="ModLoader" />
+    <script src="loader_s.lua" type="server" />
+    <script src="deleter_s.lua" type="server" />
+    <script src="handling.lua" type="server" />
+    <script src="data.lua" type="server" />
+    <script src="replacer_c.lua" type="client" />
+    <file src="vehicles/sultan.txd"></file>
+    <file src="vehicles/sultan.dff"></file>
+    <file src="vehicles/bullet.txd"></file>
+    <file src="vehicles/bullet.dff"></file>
+    <file src="vehicles/stratum.txd"></file>
+    <file src="vehicles/stratum.dff"></file>
+    <file src="vehicles/infernus.txd"></file>
+    <file src="vehicles/infernus.dff"></file>
+    <file src="vehicles/turismo.txd"></file>
+    <file src="vehicles/turismo.dff"></file>
+    <file src="vehicles/elegy.txd"></file>
+    <file src="vehicles/elegy.dff"></file>
+    <file src="vehicles/huntley.txd"></file>
+    <file src="vehicles/huntley.dff"></file>
+</meta>

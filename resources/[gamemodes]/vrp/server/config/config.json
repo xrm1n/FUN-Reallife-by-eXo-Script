@@ -1,0 +1,32 @@
+{
+  "mysql": {
+    "main": {
+      "host": "94.199.215.122",
+      "port": 3306,
+      "username": "stdb_user_armin93_23571732",
+      "password": "2f52e343d0f6cf6f4068",
+      "database": "stdb_user_armin93_23571732",
+      "socket": "/var/run/mysqld/mysqld.sock"
+    },
+    "logs": {
+      "host": "94.199.215.122",
+      "port": 3306,
+      "username": "stdb_user_armin93_23571732",
+      "password": "2f52e343d0f6cf6f4068",
+      "database": "stdb_user_armin93_23571732",
+      "socket": "/var/run/mysqld/mysqld.sock"
+    },
+    "premium": {
+      "host": "94.199.215.122",
+      "port": 3306,
+      "username": "stdb_user_armin93_23571732",
+      "password": "2f52e343d0f6cf6f4068",
+      "database": "stdb_user_armin93_23571732",
+      "socket": "/var/run/mysqld/mysqld.sock"
+    }
+  },
+  "board": {
+    "baseurl": "https://forum.exo-reallife.de/index.php",
+	"secret": ""
+  }
+}
