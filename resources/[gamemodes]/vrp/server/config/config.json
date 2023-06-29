@@ -1,28 +1,28 @@
 {
   "mysql": {
     "main": {
-      "host": "94.199.215.122",
+      "host": "",
       "port": 3306,
-      "username": "stdb_user_armin93_23571732",
-      "password": "2f52e343d0f6cf6f4068",
-      "database": "stdb_user_armin93_23571732",
+      "user":"",
+      "password": "",
+      "database": "",
       "socket": "/var/run/mysqld/mysqld.sock"
     },
     "logs": {
-      "host": "94.199.215.122",
+      "host": "",
       "port": 3306,
-      "username": "stdb_user_armin93_23571732",
-      "password": "2f52e343d0f6cf6f4068",
-      "database": "stdb_user_armin93_23571732",
-      "socket": "/var/run/mysqld/mysqld.sock"
+      "username": "",
+      "password": "",
+      "database": "",
+      "socket": ""
     },
     "premium": {
-      "host": "94.199.215.122",
+      "host": "",
       "port": 3306,
-      "username": "stdb_user_armin93_23571732",
-      "password": "2f52e343d0f6cf6f4068",
-      "database": "stdb_user_armin93_23571732",
-      "socket": "/var/run/mysqld/mysqld.sock"
+      "username": "",
+      "password": "",
+      "database": "",
+      "socket": ""
     }
   },
   "board": {
